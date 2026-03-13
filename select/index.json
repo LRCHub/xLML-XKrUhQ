@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "誰かの願いが叶うころ",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-03-13T05:17:56.261966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_誰かの願いが叶うころ_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_誰かの願いが叶うころ_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_誰かの願いが叶うころ_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dareka No Negai Ga Kanau Koro [誰かの願いが叶うころ]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Dareka_No_Negai_Ga_Kanau_Koro_[誰かの願いが叶うころ]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Darekano Negaiga Kanaukoro (誰かの願いが叶うころ)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Darekano_Negaiga_Kanaukoro_(誰かの願いが叶うころ)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_誰かの願いが叶うころ_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_誰かの願いが叶うころ_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/08_誰かの願いが叶うころ_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "Utada, Hikaru",
+      "has_synced": true,
+      "path": "select/09_誰かの願いが叶うころ_Utada,_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dareka no Negai ga Kanau Koro (誰かの願いが叶うころ)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/10_Dareka_no_Negai_ga_Kanau_Koro_(誰かの願いが叶うころ)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_誰かの願いが叶うころ_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "06.誰かの願いが叶うころ",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/12_06.誰かの願いが叶うころ_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/13_誰かの願いが叶うころ_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/14_誰かの願いが叶うころ_宇多田光.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "誰かの願いが叶うころ",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_誰かの願いが叶うころ_宇多田_ヒカル.txt"
+    }
+  ]
+}
